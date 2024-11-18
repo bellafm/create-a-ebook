@@ -65,7 +65,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-
+<p>
     <p>&nbsp&nbsp&nbspIsabella Mesquita<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/bellafm">
