@@ -76,9 +76,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/bellafm">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://br.linkedin.com/in/isabella-fmesquita.exe">LinkedIn</a>
+    <a href="https://br.linkedin.com/in/isabella-fmesquita">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/bellafermes.exe/">
+    <a href="https://www.instagram.com/bellafermes/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
